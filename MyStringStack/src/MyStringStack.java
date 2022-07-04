@@ -2,6 +2,7 @@
 import java.lang.IndexOutOfBoundsException;
 import java.util.ArrayList;
 
+//My comment
 public class MyStringStack {
 	private ArrayList<String> v = new ArrayList<String> ();
 	
